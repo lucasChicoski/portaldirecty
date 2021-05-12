@@ -100,9 +100,11 @@ img {
   font-family: Akkurat; }
 
 h1 {
+  font-size: 10px;
   font-weight: 100 !important;
   width: 100%;
-  max-width: 80vw; }
+  max-width: 80vw; 
+}
 
 .callToAction.textCent > * {
   margin: 0 auto;
@@ -130,7 +132,7 @@ h1 {
 
 .textePrelude,
 .textePrelude p {
-  font-size: 22px;
+  font-size: 10px;
   color: #13294b;
   letter-spacing: 0.5px;
   padding: 0.5vw 0; }
@@ -166,7 +168,7 @@ h1 {
   .texteTitre,
   .texteTitre h1,
   .texteTitre p {
-    font-size: 34px !important;
+    font-size: 10px !important;
     line-height: 1.4em !important; } }
 @media (max-width: 959px) {
   .titreBloc {
@@ -175,7 +177,7 @@ h1 {
   .texteTitre,
   .texteTitre h1,
   .texteTitre p {
-    font-size: 32px !important;
+    font-size: 10px !important;
     line-height: 1.4em !important; } }
 @media (max-width: 500px) {
   .titreBloc {
@@ -184,7 +186,7 @@ h1 {
   .texteTitre,
   .texteTitre h1,
   .texteTitre p {
-    font-size: 22px;
+    font-size: 10px;
     line-height: 1.4em !important; }
 
   .textePrelude,
