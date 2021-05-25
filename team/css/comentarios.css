@@ -1,0 +1,32 @@
+.comments{
+    display: flex;
+    flex-direction: row;
+
+    background-color: #e5e7eb;
+}
+
+.commentsGeral p, h3{
+   text-align: center;
+}
+
+
+.commentsGeral{
+    padding: 10px;
+}
+
+.titulo{
+    background-color: #e5e7eb;
+}
+.titulo h1{
+    text-align: center;
+    margin-left: 12%;
+    padding: 50px;
+}
+
+.main{
+    padding: 50px;
+}
+.doublemain{
+    background-color: #e5e7eb;
+    margin-top: -10%;
+}
